@@ -1,0 +1,4 @@
+Hero: Hammond
+Role: Tank
+Counters: Doomfist, D.Va, Junkrat
+CounteredBy: Orisa, Zarya, Mei

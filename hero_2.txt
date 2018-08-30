@@ -1,0 +1,4 @@
+Hero: Orisa
+Role: Tank
+Counters: Reinhardt, Zarya, Hanzo
+CounteredBy: Reaper, Pharah, Bastion

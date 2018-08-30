@@ -1,0 +1,4 @@
+Hero: Zarya
+Role: Tank
+Counters: Genji, Torbjorn, Roadhog
+CounteredBy: Reaper, Pharah, Mei

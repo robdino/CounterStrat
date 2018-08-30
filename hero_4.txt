@@ -1,0 +1,4 @@
+Hero: Roadhog
+Role: Tank
+Counters: Winston, Mercy, Genji
+CounteredBy: Reaper, Mei, D.Va

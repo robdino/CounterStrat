@@ -1,0 +1,4 @@
+Hero: Torbjorn
+Role: Attack
+Counters: Tracer, Genji, Pharah
+CounteredBy: Widowmaker, Hanzo, Junkrat

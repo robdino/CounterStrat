@@ -1,0 +1,4 @@
+Hero: Tracer
+Role: Attack
+Counters: Mercy, Hanzo, Widowmaker
+CounteredBy: McCree, Roadhog, Pharah

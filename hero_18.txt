@@ -1,0 +1,4 @@
+Hero: Sombra
+Role: Attack
+Counters: Orisa, D.Va, Doomfist
+CounteredBy: Pharah, Winston, McCree

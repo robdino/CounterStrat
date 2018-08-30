@@ -1,0 +1,4 @@
+Hero: Widowmaker
+Role: Attack
+Counters: Bastion, Torbjorn, Junkrat
+CounteredBy: Genji, D.Va, Winston

@@ -1,0 +1,4 @@
+Hero: Hanzo
+Role: Attack
+Counters: Bastion, Zenyatta, Torbjorn
+CounteredBy: Genji, Tracer, Winston

@@ -1,0 +1,4 @@
+Hero: Bastion
+Role: Attack
+Counters: Reinhardt, Winston, Mercy
+CounteredBy: Widowmaker, Genji, Hanzo

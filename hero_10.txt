@@ -1,0 +1,4 @@
+Hero: Genji
+Role: Attack
+Counters: Bastion, Widowmaker, Hanzo
+CounteredBy: Mei, Winston, Zarya

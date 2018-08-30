@@ -1,0 +1,4 @@
+Hero: Soldier 76
+Role: Attack
+Counters: Pharah, Zenyatta, Torbjorn
+CounteredBy: Genji, Roadhog, McCree

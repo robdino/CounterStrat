@@ -1,0 +1,4 @@
+Hero: McCree
+Role: Attack
+Counters: Reaper, Tracer, Lucio
+CounteredBy: Pharah, Windowmaker, Genji

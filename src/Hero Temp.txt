@@ -1,0 +1,4 @@
+Hero: 
+Role: 
+Counters: 
+CounteredBy: 

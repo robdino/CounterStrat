@@ -1,0 +1,4 @@
+Hero: D.Va
+Role: Tank
+Counters: Widowmaker, Torbjorn, Hanzo
+CounteredBy: Mei, Junkrat, Reaper

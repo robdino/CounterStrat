@@ -1,0 +1,4 @@
+Hero: Reaper
+Role: Attack
+Counters: Winston, Roadhog, Reinhardt
+CounteredBy: McCree, Pharah, Genji

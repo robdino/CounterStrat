@@ -1,0 +1,4 @@
+Hero: Doomfist
+Role: Attack
+Counters: Reinhardt, Zarya, Genji
+CounteredBy: Bridgette, Reaper, Roadhog

@@ -1,0 +1,4 @@
+Hero: Reinhardt
+Role: Tank
+Counters: Soldier 76, Torbjorn, Genji
+CounteredBy: Mei, Bastion, Junkrat

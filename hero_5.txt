@@ -1,0 +1,4 @@
+Hero: Winston
+Role: Tank
+Counters: Genji, Widowmaker, Hanzo
+CounteredBy: Brigitte, Bastion, Reaper

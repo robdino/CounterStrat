@@ -1,0 +1,4 @@
+Hero: Mei
+Role: Attack
+Counters: Genji, Reinhardt, Lucio
+CounteredBy: Pharah, Windowmaker, Reaper

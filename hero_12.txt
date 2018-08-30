@@ -1,0 +1,4 @@
+Hero: Junkrat
+Role: Attack
+Counters: Bastion, Reinhardt, Torbjorn
+CounteredBy: Pharah, Windowmaker, Soldier 76

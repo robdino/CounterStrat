@@ -1,0 +1,4 @@
+Hero: Pharah
+Role: Attack
+Counters: Junkrat, Reaper, Mei
+CounteredBy: Soldier 76, Roadhog, Torbjorn

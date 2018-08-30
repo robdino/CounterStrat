@@ -1,0 +1,4 @@
+Hero: Symmetra
+Role: Attack
+Counters: D.Va, Reinhardt, Orisa
+CounteredBy: Pharah, Roadhog, Winston
